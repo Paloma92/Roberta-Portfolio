@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #fdf0ec;
+}
+.topnav {
+  background-color: trasparent;
+  overflow: hidden;
+}
+.topnav a {
+  float: right;
+  display: block;
+  color: #3bab87;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 1.5vw;
+  margin-top: 20px;
+  margin-right: 25px;
+  font-family:'franklin-gothic-urw', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+.topnav a:hover {
+  color: #8ebfaf;
+}
+.topnav a.active {
+  color: #8ebfaf;
+}
+.citazione {
+padding: 70px 0;
+width: 800px;
+height: 20px;
+margin-left: 150px;
+text-align:left;
+padding-right: 2px;
+padding-bottom:10px;
+font-family:'franklin-gothic-urw', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 2vw;
+}
+.citazione a {
+text-decoration: none;
+color: #3bab87;
+}
+.citazione a:hover {
+color: #8ebfaf;
+}
+.little {
+padding: 70px 0;
+width: 800px;
+height: 20px;
+margin-left: 150px;
+text-align: left;
+padding-bottom:350px;
+font-family:'franklin-gothic-urw', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 1.3vw;
+}
+.immagine {
+padding-bottom:50px;
+margin-right:150px;
+}
+.footer a {
+text-decoration:none;
+font-family:'franklin-gothic-urw', sans-serif;
+font-style: normal;
+font-weight: 300;
+color: #3bab87;
+padding: 10px;
+font-size: 1.2vw;
+}
+.footer a:hover {
+  color: #8ebfaf;
+}
